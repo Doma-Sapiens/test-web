@@ -14,7 +14,7 @@ public class CatalogSteps extends BaseSteps{
         boolean isItemCardFound = false;
         for (WebElement item : catalogPage.titleItemCards) {
             String actualItemCardTitle = item.getText();
-            if (actualItemCardTitle.contains(itemCard.getTitle() + "а")) {
+            if (actualItemCardTitle.contains(itemCard.getTitle())) {
                 isItemCardFound = true;
                 break;
             }
