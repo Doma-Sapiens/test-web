@@ -21,3 +21,9 @@
 
 1. Запуск: Тесты можно запускать через среду разработки IntelliJ IDEA, выбрав набор тестов MainTest.xml и нажав кнопку "Run".
 
+## Links
+
+1. Тест-план: https://github.com/Doma-Sapiens/test-web/blob/main/Test-plan.md
+2. Тест-кейсы: https://github.com/Doma-Sapiens/test-web/blob/main/TestCases.md
+3. Результаты тестов: https://doma-sapiens.github.io/test-web/
+
