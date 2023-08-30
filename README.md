@@ -24,7 +24,12 @@
 
 ### Execution in IDEA
 
-1. **Запуск**: Тесты можно запускать через среду разработки IntelliJ IDEA, выбрав набор тестов MainTest.xml и нажав кнопку "Run".
+1. **Клонирование репозитория:** Клонировать репозиторий с GitHub по url https://github.com/Doma-Sapiens/test-web.git
+2. **Запуск тестов**:
+   * Через контекстное меню: Найти и нажать правую кнопку мыши, выбрать"Run 'MainTest'".
+   * Через меню "Run": Открыть файл MainTest.xml, в меню нажать кнопку "Run".
+   * С помощью комбинации клавиш: Открыть файл **`MainTest.xml`** и нажать **`Shift + F10`** (для IntelliJ IDEA).
+3. **Просмотр отчета**: /test-web/target/site/allure-maven-plugin/index.html
 
 ## Links
 
