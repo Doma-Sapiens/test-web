@@ -2,20 +2,19 @@
   "f004f84bba586ebc03c9937e08866717" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a5edd0097564e9ec",
-      "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
+      "uid" : "a6d74f335851efe6",
+      "status" : "passed",
       "time" : {
-        "start" : 1693396037811,
-        "stop" : 1693396079989,
-        "duration" : 42178
+        "start" : 1693399159643,
+        "stop" : 1693399204185,
+        "duration" : 44542
       }
     } ]
   }
