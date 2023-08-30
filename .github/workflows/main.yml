@@ -2,7 +2,7 @@ name: Run Java UI Tests
 on:
   workflow_dispatch:  
   schedule:
-    - cron: '10 21 * * *' 
+    - cron: '0 21 * * *' 
 
 jobs:
   build:
