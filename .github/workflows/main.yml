@@ -1,0 +1,46 @@
+name: Run Java UI Tests
+on:
+  workflow_dispatch:  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v1
+        with:
+          java-version: 17
+
+      - name: Cache Maven packages
+        uses: actions/cache@v1
+        with:
+          path: ~/.m2
+          key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
+          restore-keys: ${{ runner.os }}-m2
+
+      - name: Install dependencies
+        run: mvn -B dependency:resolve dependency:resolve-plugins
+
+      - name: Build and Test
+        run: mvn clean test
+
+      
+      - name: Generate Allure report
+        run: mvn allure:report
+
+    
+      - name: Upload Allure report
+        uses: actions/upload-artifact@v2
+        with:
+          name: allure-report
+          path: target/site/allure-maven-plugin/  
+
+      # Публикация на GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages  
+          publish_dir: ./target/site/allure-maven-plugin/  
