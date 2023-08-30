@@ -2,25 +2,25 @@
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
   "children" : [ {
-    "name" : "Product defects",
+    "name" : "Test defects",
     "children" : [ {
-      "name" : "The following asserts failed:\n\tСписок объявлений Элемент 'Название объявления' должен отображаться, но его нет. expected [true] but found [false]",
+      "name" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "1f34ae9ad25206a9",
-        "parentUid" : "3e691cdc0d9650002b69bd73ad779eb7",
-        "status" : "failed",
+        "uid" : "a5edd0097564e9ec",
+        "parentUid" : "17c38761477742bf931de698bbb57dba",
+        "status" : "broken",
         "time" : {
-          "start" : 1693393426906,
-          "stop" : 1693393457565,
-          "duration" : 30659
+          "start" : 1693396037811,
+          "stop" : 1693396079989,
+          "duration" : 42178
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "consistent" ]
       } ],
-      "uid" : "3e691cdc0d9650002b69bd73ad779eb7"
+      "uid" : "17c38761477742bf931de698bbb57dba"
     } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]
 }

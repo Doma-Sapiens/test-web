@@ -1,21 +1,21 @@
 {
   "f004f84bba586ebc03c9937e08866717" : {
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1f34ae9ad25206a9",
-      "status" : "failed",
-      "statusDetails" : "The following asserts failed:\n\tСписок объявлений Элемент 'Название объявления' должен отображаться, но его нет. expected [true] but found [false]",
+      "uid" : "a5edd0097564e9ec",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
       "time" : {
-        "start" : 1693393426906,
-        "stop" : 1693393457565,
-        "duration" : 30659
+        "start" : 1693396037811,
+        "stop" : 1693396079989,
+        "duration" : 42178
       }
     } ]
   }

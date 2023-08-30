@@ -4,8 +4,8 @@
     "uid" : "14b1dacd482a1ebd81911f770f146533",
     "name" : "MainTest",
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
