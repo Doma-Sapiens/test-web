@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "MainTest",
+    "children" : [ {
+      "name" : "Добавление в избранное",
+      "children" : [ {
+        "name" : "ru.avito.tests.AddToFavoritesTest",
+        "children" : [ {
+          "name" : "testAddToFavorites",
+          "uid" : "d57e37c1f172ddd9",
+          "parentUid" : "791c4cdde2c5ab3d68b098eb7041da3f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1693392888969,
+            "stop" : 1693392918350,
+            "duration" : 29381
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "consistent" ]
+        } ],
+        "uid" : "791c4cdde2c5ab3d68b098eb7041da3f"
+      } ],
+      "uid" : "163b5744ee5137f301931d74caefffef"
+    } ],
+    "uid" : "14b1dacd482a1ebd81911f770f146533"
+  } ]
+}

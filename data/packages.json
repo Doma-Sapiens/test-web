@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ru.avito.tests.AddToFavoritesTest",
+    "children" : [ {
+      "name" : "testAddToFavorites",
+      "uid" : "d57e37c1f172ddd9",
+      "parentUid" : "7a545b1ee2b9d5ee94257a1e200e2d28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693392888969,
+        "stop" : 1693392918350,
+        "duration" : 29381
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "consistent" ]
+    } ],
+    "uid" : "ru.avito.tests.AddToFavoritesTest"
+  } ]
+}

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "d57e37c1f172ddd9",
+  "name" : "testAddToFavorites",
+  "time" : {
+    "start" : 1693392888969,
+    "stop" : 1693392918350,
+    "duration" : 29381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
