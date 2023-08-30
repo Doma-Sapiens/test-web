@@ -11,10 +11,7 @@
 ### Execution in GitHub Actions 
 
 1. Запуск: 
-   1. Осуществить вход на GitHub под пользователем:
-      1.  Username: gawaxif183 
-      2. Password: sfgsfgw45bnr5
-   2. на [странице](https://github.com/Doma-Sapiens/test-web/actions/workflows/main.yml) нажать "Run workflow"
+   1. запускается по расписанию каждый день в 00:00 по МСК на [странице](https://github.com/Doma-Sapiens/test-web/actions/workflows/main.yml)
 2. Анализ результата: https://doma-sapiens.github.io/test-web/
 
 ### Execution in IDEA
