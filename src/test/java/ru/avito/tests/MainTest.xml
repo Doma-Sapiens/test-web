@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MainTest" verbose="10">
+    <parameter name="type" value="consistent"/>
+    <listeners>
+        <listener class-name="ru.avito.tests.TestListener"/>
+    </listeners>
+    <test name="Добавление в избранное">
+        <classes>
+            <class name="ru.avito.tests.AddToFavoritesTest"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
