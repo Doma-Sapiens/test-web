@@ -18,7 +18,7 @@
 1. **Клонирование репозитория**: Клонировать репозиторий с GitHub командой `git clone https://github.com/Doma-Sapiens/test-web.git`.
 2. **Переход в каталог проекта**: Перейти в каталог проекта: `cd [Путь к клонированному проекту]`.
 3. **Установка зависимостей**: Запустить `mvn clean install` для установки всех зависимостей из файла `pom.xml`.
-4. **Запуск тестов через XML**: Выполнить команду `mvn test -Dsurefire.suiteXmlFiles=src/test/java/ru/avito/tests/MainTest.xml` для запуска тестов, указанных в XML файле.
+4. **Запуск тестов через Maven**: Выполнить команду `mvn test -Dsurefire.suiteXmlFiles=src/test/java/ru/avito/tests/MainTest.xml` для запуска тестов, указанных в XML файле.
 5. **Генерация Allure отчета**: Выполните команду `mvn allure:report` для генерации отчета.
 6. **Просмотр отчета**: /test-web/target/site/allure-maven-plugin/index.html
 
