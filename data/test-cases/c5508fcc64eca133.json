@@ -1,0 +1,182 @@
+{
+  "uid" : "c5508fcc64eca133",
+  "name" : "testAddToFavorites",
+  "fullName" : "ru.avito.tests.AddToFavoritesTest.testAddToFavorites",
+  "historyId" : "f004f84bba586ebc03c9937e08866717",
+  "time" : {
+    "start" : 1693440696087,
+    "stop" : 1693440744440,
+    "duration" : 48353
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1693440695995,
+      "stop" : 1693440696014,
+      "duration" : 19
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUpMethod",
+    "time" : {
+      "start" : 1693440696020,
+      "stop" : 1693440696020,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUpSuite",
+    "time" : {
+      "start" : 1693440692974,
+      "stop" : 1693440695946,
+      "duration" : 2972
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Клик на Добавить в избранное",
+      "time" : {
+        "start" : 1693440740297,
+        "stop" : 1693440740298,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "15d3ada577580e7d",
+      "name" : "Скриншот после успешного прохождения теста",
+      "source" : "15d3ada577580e7d.png",
+      "type" : "image/png",
+      "size" : 124484
+    }, {
+      "uid" : "220822eaa097d498",
+      "name" : "Логи после успешного прохождения теста: ",
+      "source" : "220822eaa097d498.txt",
+      "type" : "text/plain",
+      "size" : 1844
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "shutDownMethod",
+    "time" : {
+      "start" : 1693440744455,
+      "stop" : 1693440744455,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "shutDownSuite",
+    "time" : {
+      "start" : 1693440744476,
+      "stop" : 1693440744588,
+      "duration" : 112
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.avito.tests.AddToFavoritesTest"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.avito.tests.AddToFavoritesTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAddToFavorites"
+  }, {
+    "name" : "parentSuite",
+    "value" : "MainTest"
+  }, {
+    "name" : "suite",
+    "value" : "Добавление в избранное"
+  }, {
+    "name" : "subSuite",
+    "value" : "ru.avito.tests.AddToFavoritesTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az407-337"
+  }, {
+    "name" : "thread",
+    "value" : "1906@fv-az407-337.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "type",
+    "value" : "consistent"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5508fcc64eca133.json",
+  "parameterValues" : [ "consistent" ]
+}
