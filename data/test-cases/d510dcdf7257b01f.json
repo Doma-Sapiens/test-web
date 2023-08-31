@@ -1,12 +1,12 @@
 {
-  "uid" : "8acccfa76735d3ce",
+  "uid" : "d510dcdf7257b01f",
   "name" : "testAddToFavorites",
   "fullName" : "ru.avito.tests.AddToFavoritesTest.testAddToFavorites",
   "historyId" : "f004f84bba586ebc03c9937e08866717",
   "time" : {
-    "start" : 1693473891502,
-    "stop" : 1693473904629,
-    "duration" : 13127
+    "start" : 1693516345256,
+    "stop" : 1693516394596,
+    "duration" : 49340
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,8 +14,8 @@
   "beforeStages" : [ {
     "name" : "setUpMethod",
     "time" : {
-      "start" : 1693473891412,
-      "stop" : 1693473891413,
+      "start" : 1693516345170,
+      "stop" : 1693516345171,
       "duration" : 1
     },
     "description" : "",
@@ -30,9 +30,9 @@
   }, {
     "name" : "setUpClass",
     "time" : {
-      "start" : 1693473891379,
-      "stop" : 1693473891402,
-      "duration" : 23
+      "start" : 1693516345148,
+      "stop" : 1693516345163,
+      "duration" : 15
     },
     "description" : "",
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "setUpSuite",
     "time" : {
-      "start" : 1693473887626,
-      "stop" : 1693473891343,
-      "duration" : 3717
+      "start" : 1693516342378,
+      "stop" : 1693516345108,
+      "duration" : 2730
     },
     "description" : "",
     "status" : "passed",
@@ -65,9 +65,9 @@
     "steps" : [ {
       "name" : "Клик на Добавить в избранное",
       "time" : {
-        "start" : 1693473899952,
-        "stop" : 1693473899952,
-        "duration" : 0
+        "start" : 1693516390246,
+        "stop" : 1693516390247,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -79,17 +79,17 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "91eba828dab3a59d",
+      "uid" : "18830275aa078975",
       "name" : "Скриншот после успешного прохождения теста",
-      "source" : "91eba828dab3a59d.png",
+      "source" : "18830275aa078975.png",
       "type" : "image/png",
       "size" : 124484
     }, {
-      "uid" : "a471d074b26b2dca",
+      "uid" : "ec8fea48cc74dc0f",
       "name" : "Логи после успешного прохождения теста: ",
-      "source" : "a471d074b26b2dca.txt",
+      "source" : "ec8fea48cc74dc0f.txt",
       "type" : "text/plain",
-      "size" : 1479
+      "size" : 1828
     } ],
     "parameters" : [ ],
     "stepsCount" : 1,
@@ -100,8 +100,8 @@
   "afterStages" : [ {
     "name" : "shutDownMethod",
     "time" : {
-      "start" : 1693473904645,
-      "stop" : 1693473904645,
+      "start" : 1693516394617,
+      "stop" : 1693516394617,
       "duration" : 0
     },
     "description" : "",
@@ -116,9 +116,9 @@
   }, {
     "name" : "shutDownSuite",
     "time" : {
-      "start" : 1693473904661,
-      "stop" : 1693473904777,
-      "duration" : 116
+      "start" : 1693516394637,
+      "stop" : 1693516394729,
+      "duration" : 92
     },
     "description" : "",
     "status" : "passed",
@@ -150,10 +150,10 @@
     "value" : "ru.avito.tests.AddToFavoritesTest"
   }, {
     "name" : "host",
-    "value" : "fv-az402-61"
+    "value" : "fv-az627-632"
   }, {
     "name" : "thread",
-    "value" : "1910@fv-az402-61.main(1)"
+    "value" : "1901@fv-az627-632.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -177,6 +177,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "8acccfa76735d3ce.json",
+  "source" : "d510dcdf7257b01f.json",
   "parameterValues" : [ "consistent" ]
 }
