@@ -4,22 +4,22 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//button[@data-marker='item-view/favorite-button'])[2]' (tried for 30 second(s) with 500 milliseconds interval)",
+      "name" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "ace38b8ee840dd91",
-        "parentUid" : "07986c66842a9487599b0517ab064922",
+        "uid" : "19a6e90e1c176bd0",
+        "parentUid" : "17c38761477742bf931de698bbb57dba",
         "status" : "broken",
         "time" : {
-          "start" : 1695849171277,
-          "stop" : 1695849219672,
-          "duration" : 48395
+          "start" : 1695935577037,
+          "stop" : 1695935619001,
+          "duration" : 41964
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "consistent" ]
       } ],
-      "uid" : "07986c66842a9487599b0517ab064922"
+      "uid" : "17c38761477742bf931de698bbb57dba"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]
