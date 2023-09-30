@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Fri Sep 29 21:12:24 UTC 2023","Fri Sep 29 21:13:11 UTC 2023","47264","MainTest","Добавление в избранное","ru.avito.tests.AddToFavoritesTest","ru.avito.tests.AddToFavoritesTest","testAddToFavorites","testAddToFavorites",""
+"broken","Sat Sep 30 21:11:45 UTC 2023","Sat Sep 30 21:12:28 UTC 2023","42717","MainTest","Добавление в избранное","ru.avito.tests.AddToFavoritesTest","ru.avito.tests.AddToFavoritesTest","testAddToFavorites","testAddToFavorites",""
