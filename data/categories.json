@@ -7,13 +7,13 @@
       "name" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "bc20e833c05a47c5",
+        "uid" : "9e480bdb810cac3d",
         "parentUid" : "17c38761477742bf931de698bbb57dba",
         "status" : "broken",
         "time" : {
-          "start" : 1697058788376,
-          "stop" : 1697058830415,
-          "duration" : 42039
+          "start" : 1697145164857,
+          "stop" : 1697145206909,
+          "duration" : 42052
         },
         "flaky" : false,
         "newFailed" : false,

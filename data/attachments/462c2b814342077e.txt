@@ -1,0 +1,2 @@
+[2023-10-12T21:12:45.443Z] [SEVERE] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363 - Failed to load resource: the server responded with a status of 403 ()
+[2023-10-12T21:12:46.671Z] [SEVERE] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363#block - Failed to load resource: the server responded with a status of 403 ()
