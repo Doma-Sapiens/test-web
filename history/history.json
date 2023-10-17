@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4800395f1a4884d6",
+      "uid" : "2e47bc3c43b54e15",
       "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//button[@data-marker='item-view/favorite-button'])[2]' (tried for 30 second(s) with 500 milliseconds interval)",
       "time" : {
-        "start" : 1697490815831,
-        "stop" : 1697490857931,
-        "duration" : 42100
+        "start" : 1697577183810,
+        "stop" : 1697577233756,
+        "duration" : 49946
       }
     } ]
   }
