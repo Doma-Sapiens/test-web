@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5c801b22638fffaa",
+      "uid" : "625b0ec1e5b53b90",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-marker='item-view/title-info']' (tried for 30 second(s) with 500 milliseconds interval)",
       "time" : {
-        "start" : 1697663578628,
-        "stop" : 1697663620866,
-        "duration" : 42238
+        "start" : 1697749933272,
+        "stop" : 1697749975372,
+        "duration" : 42100
       }
     } ]
   }
