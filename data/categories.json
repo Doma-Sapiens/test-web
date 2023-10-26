@@ -7,13 +7,13 @@
       "name" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//button[@data-marker='item-view/favorite-button'])[2]' (tried for 30 second(s) with 500 milliseconds interval)",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "b82109f495f1db4b",
+        "uid" : "30f510d4ac418e65",
         "parentUid" : "07986c66842a9487599b0517ab064922",
         "status" : "broken",
         "time" : {
-          "start" : 1698268352849,
-          "stop" : 1698268399971,
-          "duration" : 47122
+          "start" : 1698354770058,
+          "stop" : 1698354817854,
+          "duration" : 47796
         },
         "flaky" : false,
         "newFailed" : false,
