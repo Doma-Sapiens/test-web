@@ -8,18 +8,18 @@
       "headers": {
         "content-encoding": "gzip",
         "content-type": "text/html; charset\u003dutf-8",
-        "date": "Wed, 08 Nov 2023 21:12:44 GMT",
+        "date": "Thu, 09 Nov 2023 21:12:38 GMT",
         "document-policy": "js-profiling",
-        "etag": "W/\"1033b-ezlXK8uLGmtJXLxuNnwH9nVlFXM\"",
+        "etag": "W/\"101ff-LaRmTnSRWGXdMNhspix4+Sim8ck\"",
         "server": "QRATOR",
-        "set-cookie": "v\u003d1699477963; path\u003d/; expires\u003dWed, 08-Nov-23 21:42:44 GMT; HttpOnly; Max-Age\u003d1800; secure; domain\u003d.avito.ru; SameSite\u003dLax\nv\u003d1699477963; Max-Age\u003d1800; Domain\u003d.avito.ru; Path\u003d/; Expires\u003dWed, 08 Nov 2023 21:42:44 GMT; HttpOnly; Secure; SameSite\u003dLax",
+        "set-cookie": "v\u003d1699564356; path\u003d/; expires\u003dThu, 09-Nov-23 21:42:38 GMT; HttpOnly; Max-Age\u003d1800; secure; domain\u003d.avito.ru; SameSite\u003dLax\nv\u003d1699564356; Max-Age\u003d1800; Domain\u003d.avito.ru; Path\u003d/; Expires\u003dThu, 09 Nov 2023 21:42:38 GMT; HttpOnly; Secure; SameSite\u003dLax",
         "x-content-type-options": "nosniff",
         "x-xss-protection": "1; mode\u003dblock"
       },
-      "requestId": "2144.140",
+      "requestId": "2096.140",
       "resourceIPAddressSpace": "Public",
       "statusCode": 404
     }
   },
-  "webview": "3F744562C8DB23DFD3FD54288BE45BAA"
+  "webview": "39C9F13455F20A706227E43C4C263408"
 }
