@@ -1,0 +1,23 @@
+{
+  "message": {
+    "method": "Network.responseReceivedExtraInfo",
+    "params": {
+      "blockedCookies": [],
+      "cookiePartitionKey": "https://avito.ru",
+      "cookiePartitionKeyOpaque": false,
+      "headers": {
+        "content-encoding": "br",
+        "content-type": "application/json",
+        "date": "Wed, 15 Nov 2023 21:13:17 GMT",
+        "server": "QRATOR",
+        "set-cookie": "v\u003d1700082793; path\u003d/; expires\u003dWed, 15-Nov-23 21:43:17 GMT; HttpOnly; Max-Age\u003d1800; secure; domain\u003d.avito.ru; SameSite\u003dLax",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode\u003dblock"
+      },
+      "requestId": "2185.160",
+      "resourceIPAddressSpace": "Public",
+      "statusCode": 404
+    }
+  },
+  "webview": "55A4CF32E5C02149F9FD408A7EFC9DBF"
+}
