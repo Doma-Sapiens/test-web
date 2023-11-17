@@ -1,0 +1,1 @@
+[2023-11-17T21:14:04.082Z] [SEVERE] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js - Failed to load resource: the server responded with a status of 502 ()
