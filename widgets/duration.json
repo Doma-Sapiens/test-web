@@ -1,10 +1,10 @@
 [ {
-  "uid" : "c330410bb6e01800",
+  "uid" : "b13a6c9f29e20b55",
   "name" : "testAddToFavorites",
   "time" : {
-    "start" : 1700860331118,
-    "stop" : 1700860379565,
-    "duration" : 48447
+    "start" : 1700946726287,
+    "stop" : 1700946773969,
+    "duration" : 47682
   },
   "status" : "broken",
   "severity" : "normal"
