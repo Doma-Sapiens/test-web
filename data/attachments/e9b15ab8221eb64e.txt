@@ -1,6 +1,0 @@
-[2023-11-27T21:13:34.471Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react (required ^16.14.0)"
-[2023-11-27T21:13:34.471Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react-dom (required ^16.14.0)"
-[2023-11-27T21:13:40.788Z] [SEVERE] https://cs.mobfox.com/0045dfa61acbee4589c90e69378d55b9.gif?puid=b6a6f5421964cf075043&redir=0 - Failed to load resource: the server responded with a status of 400 (Bad Request)
-[2023-11-27T21:13:53.949Z] [SEVERE] https://tags.soloway.ru/DSPCounter.min.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
-[2023-11-27T21:16:26.122Z] [SEVERE] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363 - Access to XMLHttpRequest at 'chrome-extension://bcoiihabmfakmgppaccdhijkfgbbdjlj/js/update-content.js' from origin 'https://www.avito.ru' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, https, chrome-untrusted.
-[2023-11-27T21:16:26.125Z] [SEVERE] chrome-extension://bcoiihabmfakmgppaccdhijkfgbbdjlj/js/update-content.js - Failed to load resource: net::ERR_FAILED
