@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "38e3302aa58dd448",
+      "uid" : "3898bea10da94491",
       "status" : "broken",
       "statusDetails" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//button[@data-marker='item-view/favorite-button'])[2]' (tried for 30 second(s) with 500 milliseconds interval)",
       "time" : {
-        "start" : 1701465173906,
-        "stop" : 1701465225560,
-        "duration" : 51654
+        "start" : 1701551523407,
+        "stop" : 1701551573258,
+        "duration" : 49851
       }
     } ]
   }
