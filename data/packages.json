@@ -5,13 +5,13 @@
     "name" : "ru.avito.tests.AddToFavoritesTest",
     "children" : [ {
       "name" : "testAddToFavorites",
-      "uid" : "ffb02cd706065d1b",
+      "uid" : "60afc88d1065651c",
       "parentUid" : "7a545b1ee2b9d5ee94257a1e200e2d28",
       "status" : "broken",
       "time" : {
-        "start" : 1703365950282,
-        "stop" : 1703365997312,
-        "duration" : 47030
+        "start" : 1703452353092,
+        "stop" : 1703452401930,
+        "duration" : 48838
       },
       "flaky" : false,
       "newFailed" : false,
