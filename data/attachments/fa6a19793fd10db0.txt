@@ -1,0 +1,31 @@
+[2023-12-31T21:12:47.187Z] [SEVERE] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Recoverable" Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Zr (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:43627)
+    at qo (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:87760)
+    at ws (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:109169)
+    at ks (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:109051)
+    at bs (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:108962)
+    at as (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:103992)
+    at E (https://www.avito.ru/dstatic/build/client/main.f5bf480dff9d3497.js:2:51594)
+    at L (https://www.avito.ru/dstatic/build/client/main.f5bf480dff9d3497.js:2:52126)
+    at b.<computed> (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44883)
+    at A (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44603)
+    at MessagePort.E (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44662)
+[2023-12-31T21:12:47.188Z] [SEVERE] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Recoverable" Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:78908
+    at Uo (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:80168)
+    at Ei (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:121719)
+    at ks (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:108990)
+    at bs (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:108962)
+    at as (https://www.avito.ru/dstatic/build/client/react-dom.b2b03dba79dd7e0e.js:2:103992)
+    at E (https://www.avito.ru/dstatic/build/client/main.f5bf480dff9d3497.js:2:51594)
+    at L (https://www.avito.ru/dstatic/build/client/main.f5bf480dff9d3497.js:2:52126)
+    at b.<computed> (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44883)
+    at A (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44603)
+    at MessagePort.E (https://www.avito.ru/dstatic/build/client/core-js.9fb9a3a985910fb6.js:2:44662)
+[2023-12-31T21:12:47.344Z] [SEVERE] https://sntr.avito.ru/api/2296/store/?sentry_key=f1cfe913d6f44732a4b1601444eccb74&sentry_version=7 - Failed to load resource: the server responded with a status of 429 ()
+[2023-12-31T21:12:47.369Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react (required ^16.14.0)"
+[2023-12-31T21:12:47.369Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react-dom (required ^16.14.0)"
+[2023-12-31T21:12:47.435Z] [SEVERE] https://sntr.avito.ru/api/2296/store/?sentry_key=f1cfe913d6f44732a4b1601444eccb74&sentry_version=7 - Failed to load resource: the server responded with a status of 429 ()
+[2023-12-31T21:12:48.346Z] [WARNING] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363 - [.WebGL-0x370800c15c00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2023-12-31T21:12:50.812Z] [SEVERE] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363 - Access to XMLHttpRequest at 'chrome-extension://bcoiihabmfakmgppaccdhijkfgbbdjlj/js/update-content.js' from origin 'https://www.avito.ru' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, https, chrome-untrusted.
+[2023-12-31T21:12:50.813Z] [SEVERE] chrome-extension://bcoiihabmfakmgppaccdhijkfgbbdjlj/js/update-content.js - Failed to load resource: net::ERR_FAILED
