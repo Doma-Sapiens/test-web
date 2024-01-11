@@ -4,22 +4,22 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: (//button[@data-marker='item-view/favorite-button'])[2]' (tried for 30 second(s) with 500 milliseconds interval)",
+      "name" : "java.util.concurrent.TimeoutException\nBuild info: version: '4.9.1', revision: 'eb2032df7f'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.2.0-1018-azure', java.version: '17.0.9'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d22993fb6b1e9627513e1575f7890481, get {url=https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome-headless-shell, browserVersion: 120.0.6099.199, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:33791}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:33791/devtoo..., se:cdpVersion: 120.0.6099.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d22993fb6b1e9627513e1575f7890481",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "742a6d5375b2db96",
-        "parentUid" : "07986c66842a9487599b0517ab064922",
+        "uid" : "4daedf19a956042e",
+        "parentUid" : "e104f66269dce1e0b5ff9b3c0456e046",
         "status" : "broken",
         "time" : {
-          "start" : 1704921180684,
-          "stop" : 1704921231159,
-          "duration" : 50475
+          "start" : 1705007615064,
+          "stop" : 1705007859767,
+          "duration" : 244703
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "consistent" ]
       } ],
-      "uid" : "07986c66842a9487599b0517ab064922"
+      "uid" : "e104f66269dce1e0b5ff9b3c0456e046"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]

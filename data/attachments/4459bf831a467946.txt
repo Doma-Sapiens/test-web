@@ -1,0 +1,4 @@
+[2024-01-11T21:13:37.604Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react (required ^16.14.0)"
+[2024-01-11T21:13:37.604Z] [WARNING] https://www.avito.ru/dstatic/build/client/sentry.896472b96e38a463.js 1:34840 "Unsatisfied version 18.2.0 from avito-desktop-site of shared singleton module react-dom (required ^16.14.0)"
+[2024-01-11T21:13:38.249Z] [WARNING] https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363 - [.WebGL-0x3fe001e38e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2024-01-11T21:17:39.321Z] [SEVERE] https://ssp.adriver.ru/cgi-bin/sync.cgi?dsp_id=100&external_id=43931e0614214aa7464c - Failed to load resource: net::ERR_TIMED_OUT
