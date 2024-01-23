@@ -2,25 +2,25 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "fv-az979-320",
+    "name" : "fv-az847-427",
     "children" : [ {
-      "name" : "1920@fv-az979-320.main(1)",
+      "name" : "1958@fv-az847-427.main(1)",
       "children" : [ {
         "name" : "testAddToFavorites",
-        "uid" : "61a891f578771722",
-        "parentUid" : "c8157f734bcc202d7bbee4f0cb764b6a",
+        "uid" : "84b26b7f3339e0bf",
+        "parentUid" : "e7a4bec8fbfc4ec145c0950278bb20d2",
         "status" : "broken",
         "time" : {
-          "start" : 1705958024867,
-          "stop" : 1705958072900,
-          "duration" : 48033
+          "start" : 1706044430568,
+          "stop" : 1706044478125,
+          "duration" : 47557
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "consistent" ]
       } ],
-      "uid" : "c8157f734bcc202d7bbee4f0cb764b6a"
+      "uid" : "e7a4bec8fbfc4ec145c0950278bb20d2"
     } ],
-    "uid" : "6dbfaa316efd61880cf4fe916d386d7f"
+    "uid" : "870808e82c094ca6df9ec04ab44c65dd"
   } ]
 }
