@@ -1,0 +1,23 @@
+{
+  "message": {
+    "method": "Network.responseReceivedExtraInfo",
+    "params": {
+      "blockedCookies": [],
+      "cookiePartitionKey": "https://avito.ru",
+      "cookiePartitionKeyOpaque": false,
+      "headers": {
+        "content-length": "9",
+        "content-type": "text/html; charset\u003dutf-8",
+        "date": "Thu, 25 Jan 2024 21:13:05 GMT",
+        "etag": "W/\"9-R1yEhnOj95+nePAcK9WnIdTEFwc\"",
+        "server": "QRATOR",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode\u003dblock"
+      },
+      "requestId": "2028.247",
+      "resourceIPAddressSpace": "Public",
+      "statusCode": 404
+    }
+  },
+  "webview": "FB76A067DFA125318E5C9B5793DCA005"
+}
